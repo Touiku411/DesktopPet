@@ -1,0 +1,5 @@
+/home/touiku/DesktopPet/build/CMakeFiles/DesktopPet.dir
+/home/touiku/DesktopPet/build/CMakeFiles/edit_cache.dir
+/home/touiku/DesktopPet/build/CMakeFiles/rebuild_cache.dir
+/home/touiku/DesktopPet/build/CMakeFiles/DesktopPet_autogen_timestamp_deps.dir
+/home/touiku/DesktopPet/build/CMakeFiles/DesktopPet_autogen.dir

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_DesktopPet_FILE /home/touiku/DesktopPet/build/DesktopPet)
+set(__QT_DEPLOY_TARGET_DesktopPet_TYPE EXECUTABLE)
