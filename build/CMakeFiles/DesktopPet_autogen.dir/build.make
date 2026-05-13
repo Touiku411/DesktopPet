@@ -72,7 +72,7 @@ DesktopPet_autogen/timestamp: /usr/lib/qt6/moc
 DesktopPet_autogen/timestamp: /usr/lib/qt6/uic
 DesktopPet_autogen/timestamp: CMakeFiles/DesktopPet_autogen.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/touiku/DesktopPet/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target DesktopPet"
-	/usr/bin/cmake -E cmake_autogen /home/touiku/DesktopPet/build/CMakeFiles/DesktopPet_autogen.dir/AutogenInfo.json ""
+	/usr/bin/cmake -E cmake_autogen /home/touiku/DesktopPet/build/CMakeFiles/DesktopPet_autogen.dir/AutogenInfo.json Debug
 	/usr/bin/cmake -E touch /home/touiku/DesktopPet/build/DesktopPet_autogen/timestamp
 
 CMakeFiles/DesktopPet_autogen.dir/codegen:

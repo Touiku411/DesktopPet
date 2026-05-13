@@ -5,9 +5,13 @@
 	"CMAKE_CURRENT_SOURCE_DIR" : "/home/touiku/DesktopPet",
 	"CMAKE_SOURCE_DIR" : "/home/touiku/DesktopPet",
 	"CROSS_CONFIG" : false,
-	"GENERATOR" : "Unix Makefiles",
+	"GENERATOR" : "Ninja",
 	"INCLUDE_DIR" : "/home/touiku/DesktopPet/build/DesktopPet_autogen/include",
-	"INPUTS" : [ "/home/touiku/DesktopPet/gif/firefly.gif" ],
+	"INPUTS" : 
+	[
+		"/home/touiku/DesktopPet/gif/firefly.gif",
+		"/home/touiku/DesktopPet/gif/gen.gif"
+	],
 	"LOCK_FILE" : "/home/touiku/DesktopPet/build/CMakeFiles/DesktopPet_autogen.dir/AutoRcc_assets_EWIEGA46WW_Lock.lock",
 	"MULTI_CONFIG" : false,
 	"OPTIONS" : [ "-name", "assets" ],

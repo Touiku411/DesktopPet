@@ -73,16 +73,17 @@ DesktopPet_autogen/timestamp: /usr/lib/qt6/moc
 DesktopPet_autogen/timestamp: /usr/lib/qt6/uic
 DesktopPet_autogen/timestamp: CMakeFiles/DesktopPet.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/touiku/DesktopPet/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target DesktopPet"
-	/usr/bin/cmake -E cmake_autogen /home/touiku/DesktopPet/build/CMakeFiles/DesktopPet_autogen.dir/AutogenInfo.json ""
+	/usr/bin/cmake -E cmake_autogen /home/touiku/DesktopPet/build/CMakeFiles/DesktopPet_autogen.dir/AutogenInfo.json Debug
 	/usr/bin/cmake -E touch /home/touiku/DesktopPet/build/DesktopPet_autogen/timestamp
 
 DesktopPet_autogen/EWIEGA46WW/qrc_assets.cpp: /home/touiku/DesktopPet/assets.qrc
 DesktopPet_autogen/EWIEGA46WW/qrc_assets.cpp: CMakeFiles/DesktopPet_autogen.dir/AutoRcc_assets_EWIEGA46WW_Info.json
 DesktopPet_autogen/EWIEGA46WW/qrc_assets.cpp: /home/touiku/DesktopPet/gif/firefly.gif
+DesktopPet_autogen/EWIEGA46WW/qrc_assets.cpp: /home/touiku/DesktopPet/gif/gen.gif
 DesktopPet_autogen/EWIEGA46WW/qrc_assets.cpp: /usr/lib/qt6/rcc
 DesktopPet_autogen/EWIEGA46WW/qrc_assets.cpp: /usr/lib/qt6/rcc
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/touiku/DesktopPet/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Automatic RCC for assets.qrc"
-	/usr/bin/cmake -E cmake_autorcc /home/touiku/DesktopPet/build/CMakeFiles/DesktopPet_autogen.dir/AutoRcc_assets_EWIEGA46WW_Info.json 
+	/usr/bin/cmake -E cmake_autorcc /home/touiku/DesktopPet/build/CMakeFiles/DesktopPet_autogen.dir/AutoRcc_assets_EWIEGA46WW_Info.json Debug
 
 CMakeFiles/DesktopPet.dir/codegen:
 .PHONY : CMakeFiles/DesktopPet.dir/codegen

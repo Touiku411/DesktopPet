@@ -1,0 +1,11 @@
+# ninja log v7
+2	32	1777890058038210176	DesktopPet_autogen/timestamp	316bde94fa5b2a26
+2	32	1777890058038210176	DesktopPet_autogen/mocs_compilation.cpp	316bde94fa5b2a26
+2	32	1777890058038210176	/home/touiku/DesktopPet/build/DesktopPet_autogen/timestamp	316bde94fa5b2a26
+2	32	1777890058038210176	/home/touiku/DesktopPet/build/DesktopPet_autogen/mocs_compilation.cpp	316bde94fa5b2a26
+32	40	1777890058069399915	DesktopPet_autogen/EWIEGA46WW/qrc_assets.cpp	42717756a5a0c71a
+32	40	1777890058069399915	/home/touiku/DesktopPet/build/DesktopPet_autogen/EWIEGA46WW/qrc_assets.cpp	42717756a5a0c71a
+40	51	1777890058076210177	CMakeFiles/DesktopPet.dir/DesktopPet_autogen/mocs_compilation.cpp.o	bdb1bad78196957a
+40	81	1777890058077168595	CMakeFiles/DesktopPet.dir/DesktopPet_autogen/EWIEGA46WW/qrc_assets.cpp.o	5729579eaa1e4f36
+40	1283	1777890058077008900	CMakeFiles/DesktopPet.dir/main.cpp.o	e9b4c0aa02674ed7
+1284	1461	1777890059320210215	DesktopPet	d3191ac6dcd9b1d2
