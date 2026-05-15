@@ -1,0 +1,4 @@
+ninja-build
+build-essential
+cmake
+qt6-base-dev
