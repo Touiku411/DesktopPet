@@ -5,19 +5,15 @@
 	"CMAKE_CURRENT_SOURCE_DIR" : "/home/touiku/DesktopPet",
 	"CMAKE_SOURCE_DIR" : "/home/touiku/DesktopPet",
 	"CROSS_CONFIG" : false,
-	"GENERATOR" : "Ninja",
+	"GENERATOR" : "Unix Makefiles",
 	"INCLUDE_DIR" : "/home/touiku/DesktopPet/build/DesktopPet_autogen/include",
-	"INPUTS" : 
-	[
-		"/home/touiku/DesktopPet/gif/firefly.gif",
-		"/home/touiku/DesktopPet/gif/gen.gif"
-	],
+	"INPUTS" : [ "/home/touiku/DesktopPet/gif/firefly.gif" ],
 	"LOCK_FILE" : "/home/touiku/DesktopPet/build/CMakeFiles/DesktopPet_autogen.dir/AutoRcc_assets_EWIEGA46WW_Lock.lock",
 	"MULTI_CONFIG" : false,
 	"OPTIONS" : [ "-name", "assets" ],
 	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
 	"OUTPUT_NAME" : "qrc_assets.cpp",
-	"RCC_EXECUTABLE" : "/usr/lib/qt6/rcc",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/libexec/rcc",
 	"RCC_LIST_OPTIONS" : [ "--list" ],
 	"SETTINGS_FILE" : "/home/touiku/DesktopPet/build/CMakeFiles/DesktopPet_autogen.dir/AutoRcc_assets_EWIEGA46WW_Used.txt",
 	"SOURCE" : "/home/touiku/DesktopPet/assets.qrc",

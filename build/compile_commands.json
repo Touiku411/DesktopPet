@@ -1,20 +1,20 @@
 [
 {
   "directory": "/home/touiku/DesktopPet/build",
-  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/touiku/DesktopPet/build/DesktopPet_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -g -std=gnu++17 -mno-direct-extern-access -o CMakeFiles/DesktopPet.dir/DesktopPet_autogen/mocs_compilation.cpp.o -c /home/touiku/DesktopPet/build/DesktopPet_autogen/mocs_compilation.cpp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/touiku/DesktopPet/build/DesktopPet_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -std=gnu++17 -o CMakeFiles/DesktopPet.dir/DesktopPet_autogen/mocs_compilation.cpp.o -c /home/touiku/DesktopPet/build/DesktopPet_autogen/mocs_compilation.cpp",
   "file": "/home/touiku/DesktopPet/build/DesktopPet_autogen/mocs_compilation.cpp",
-  "output": "/home/touiku/DesktopPet/build/CMakeFiles/DesktopPet.dir/DesktopPet_autogen/mocs_compilation.cpp.o"
+  "output": "CMakeFiles/DesktopPet.dir/DesktopPet_autogen/mocs_compilation.cpp.o"
 },
 {
   "directory": "/home/touiku/DesktopPet/build",
-  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/touiku/DesktopPet/build/DesktopPet_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -g -std=gnu++17 -mno-direct-extern-access -o CMakeFiles/DesktopPet.dir/main.cpp.o -c /home/touiku/DesktopPet/main.cpp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/touiku/DesktopPet/build/DesktopPet_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -std=gnu++17 -o CMakeFiles/DesktopPet.dir/main.cpp.o -c /home/touiku/DesktopPet/main.cpp",
   "file": "/home/touiku/DesktopPet/main.cpp",
-  "output": "/home/touiku/DesktopPet/build/CMakeFiles/DesktopPet.dir/main.cpp.o"
+  "output": "CMakeFiles/DesktopPet.dir/main.cpp.o"
 },
 {
   "directory": "/home/touiku/DesktopPet/build",
-  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/touiku/DesktopPet/build/DesktopPet_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -g -std=gnu++17 -mno-direct-extern-access -o CMakeFiles/DesktopPet.dir/DesktopPet_autogen/EWIEGA46WW/qrc_assets.cpp.o -c /home/touiku/DesktopPet/build/DesktopPet_autogen/EWIEGA46WW/qrc_assets.cpp",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/touiku/DesktopPet/build/DesktopPet_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtWidgets -std=gnu++17 -o CMakeFiles/DesktopPet.dir/DesktopPet_autogen/EWIEGA46WW/qrc_assets.cpp.o -c /home/touiku/DesktopPet/build/DesktopPet_autogen/EWIEGA46WW/qrc_assets.cpp",
   "file": "/home/touiku/DesktopPet/build/DesktopPet_autogen/EWIEGA46WW/qrc_assets.cpp",
-  "output": "/home/touiku/DesktopPet/build/CMakeFiles/DesktopPet.dir/DesktopPet_autogen/EWIEGA46WW/qrc_assets.cpp.o"
+  "output": "CMakeFiles/DesktopPet.dir/DesktopPet_autogen/EWIEGA46WW/qrc_assets.cpp.o"
 }
 ]
